@@ -1,2 +1,2 @@
-# interface_qchem_psi4_x2c_hamiltonian
-This script works as an interface between Q-Chem and Psi4 program for loading X2C Hamiltonians
+## Q-Chem vs Psi4 Translator
+This mini program works as an interface between Q-Chem and Psi4 program for loading X2C Hamiltonians, preparing automatically generated Q-Chem and Psi4 input files from the other program.
